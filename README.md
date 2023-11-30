@@ -1,5 +1,5 @@
 <div align="center">
- <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/rocio-scotto-97376a206" target="blank">Pedro Gonzalez Chavez</a> 👋</h1>
+ <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/pedro-gonzalez-chavez-57a63142/" target="blank">Pedro Gonzalez Chavez</a> 👋</h1>
 </div>
 <div>
  <h3 align="center">Web Developer from Argentina</h3>
@@ -12,10 +12,8 @@ Bs. As., Argentina <br>
 </div>
 
 <p align="center">
-<a href="https://github.com/roscotto">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=roscotto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roscotto&layout=compact&langs_count=8&theme=radical"/>
-</a>
 </p>
 
 ## Languages, Tools, Databases & OS
